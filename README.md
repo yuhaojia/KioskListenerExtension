@@ -1,6 +1,4 @@
----
-tags: Public
----
+Privacy Policy of Kiosk Listener Extension
 
 # Privacy Policy
 
